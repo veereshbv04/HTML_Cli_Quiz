@@ -21,27 +21,27 @@ questionsArray=[
    ans:"Hypertext Markup Language" 
   },
   {
-   question: "3)Which of the following HTML Elements is used for making any text bold ? ",
+   question: "3) Which of the following HTML Elements is used for making any text bold ? ",
    options: ["<p>","<i>", "<b>"],
    ans:"<b>" 
   },
   {
-   question: "4)Which of the following HTML element is used for creating an unordered list? ",
+   question: "4) Which of the following HTML element is used for creating an unordered list? ",
    options: ["<u>","<ul>", "<ol>"],
    ans:"<ul>" 
   },
   {
-   question: "5)Which of the following characters indicate closing of a tag? ",
+   question: "5) Which of the following characters indicate closing of a tag? ",
    options: ["|","$","/"],
    ans:"/" 
   },
   {
-   question: "6)How many heading tags are there in HTML5? ",
+   question: "6) How many heading tags are there in HTML5? ",
    options: ["1","4","6"],
    ans:"6" 
   },
   {
-   question: "7)Which of the following attribute is used to link to any element ",
+   question: "7) Which of the following attribute is used to link to any element ",
    options: ["href","a","link"],
    ans:"href"
   },
