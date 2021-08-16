@@ -58,10 +58,11 @@ function play(question, options, ans){
   var userAnswer = read.keyInSelect(options);
   if(options[userAnswer] === ans){
     score= score + 1;
-    console.log("Correct Answer, your score is " + score);
+    console.log("Correct Answer, your current score is " + score);
   }else{
     score= score+ 1;
     console.log("Ohh, wrong answer it is, your current score is  " + score);
+    console.log(chalk.cyan("Correct answer is " + ans));
   }
 }
 
